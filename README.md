@@ -2,6 +2,8 @@
 
 ![Banner](React_Quiz_App.png)
 
+</div>
+
 ## Description
 
 - Simple quiz app using react js ,css,and context api for state management.
